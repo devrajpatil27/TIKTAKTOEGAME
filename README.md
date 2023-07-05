@@ -23,13 +23,7 @@ The Tic-Tac-Toe Game project includes the following features:
 
 The project can be organized into the following components:
 
-1. `main.c`: The main file of the project that contains the entry point for the application. It handles the game flow, user input, and interacts with other functions.
-
-2. `board.c` and `board.h`: These files define the functions and structures related to the game board. They handle initializing the board, displaying the current state, updating moves, and checking for win conditions.
-
-3. `player.c` and `player.h`: These files define the functions and structures related to the players. They handle alternating turns, validating moves, and managing player input.
-
-4. `utils.c` and `utils.h`: These files contain utility functions used throughout the project, such as displaying messages, clearing the screen, and handling user input.
+1. `Tic-Tac-Toe: These files contain utility functions used throughout the project, such as displaying messages, clearing the screen, and handling user input.
 
 ## Getting Started
 
